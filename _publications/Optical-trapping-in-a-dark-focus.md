@@ -3,7 +3,7 @@ title: "Optical Trapping in a Dark Focus"
 collection: publications
 permalink: /publication/Optical-Trapping-in-a-Dark-Focus
 excerpt: 'We theoretically explore the use of structured light beam with dark focus to trap dielectric spheres and living organisms'
-date: 2009-10-01
+date: 2020-09-30
 venue: 'Phys. Rev. Applied'
 paperurl: 'https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.14.034069'
 citation: 'B. Melo, I. Brandão, B. Pinheiro, R. Rodrigues, A. Khoury, T. Guerreiro. Phys. Rev. Applied 14, 034069 (2020)'
